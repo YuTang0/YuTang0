@@ -23,7 +23,9 @@ stfvSEigmZ1vuz7XfcScIubhIMa+tkmab5eXW9UnOYWF9OBcifodduE33tK3aiS5
 I+4vFBKk0rguhty/Wgp48b48kNLP1OzpYfaMvhxnL31TXAtbLbEQP67tAkpkdBlH
 +8SmOfKzsaHWa3a9Duw00cj85dxsg8zQRJr7y8QQ1CInmzBfKIjyiywVeNxtlK0M
 UcIDhAqWtP37L/ITA1Y8LLoLMafsJT0dV0xQ63JJav7HBPtEdLmdDREiU4UJydBp
-wrv42bfjEzoUhVOB+MQbs4dHjupl1LiZIvieJUXtGwiaJ+gp3Cw2J0HdRXrsHKEo
+wrv42bfjEzoUhVOB+MQbs4dHjupl1LiZIvieJUXtGwiaJ+gp3Cw2J0HdRXrsHKEo![image](https://user-images.githubusercontent.com/121752500/216967539-e2f5da8a-936a-4bb8-a5e2-3fd23724357e.png)![image](https://user-images.githubusercontent.com/121752500/216967534-f1d6bab2-06c5-4505-8b05-20916224244f.png)
+
+
 cbpAUCN8APXZYykAEQEAAbQheXV0YW5nMCA8eXV0YW5nbGluMTk4MEBnbWFpbC5j
 b20+iQHOBBMBCAA4AhsDBQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAFiEEj42kRQru
 qcvPtyxqdwKN3K1iC9AFAmPgzA0ACgkQdwKN3K1iC9DqEAwAllP1dFSimLamKIl/
@@ -57,3 +59,6 @@ gxUIquTU33XoONIl/Q==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
+
+
+[![Freedom](canvas.png)](https://youtu.be/Ea3LiY7aMVI "free mind")
