@@ -6,6 +6,7 @@ Hello, I am yutang0, a programmer currently living in Shanghai.
 ### Contact
 You can email me at yutanglin1980 [at] gmail [dot] com.  
 
+
 ### PGP
 If you are contacting me regarding a security issue, please encrypt your communications using PGP.
 
@@ -57,18 +58,3 @@ gxUIquTU33XoONIl/Q==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
-
-<!--
-**YuTang0/YuTang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
