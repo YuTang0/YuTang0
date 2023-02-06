@@ -61,4 +61,4 @@ gxUIquTU33XoONIl/Q==
 </details>
 
 
-[![Freedom](canvas.png)](https://youtu.be/Ea3LiY7aMVI "free mind")
+[![Freedom](canvas.jpg)](https://youtu.be/Ea3LiY7aMVI "free mind")
