@@ -1,7 +1,6 @@
 ### About me
-Hello, I am yutang0, a programmer currently living in Shanghai.  
-
-- Pronouns: He/Him
+Hello, I am yutang0, a programmer currently living in China.  
+Pronouns: He/Him
 
 ### Contact
 You can email me at yutanglin1980 [at] gmail [dot] com.  
